@@ -29,6 +29,7 @@ public class InnerTrainingTest1 {
 
         wait.until(ExpectedConditions.urlToBe("https://www.freerangetesters.com/"));
 
+        //commentario para git
 
         
 
