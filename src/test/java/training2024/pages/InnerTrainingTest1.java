@@ -37,9 +37,9 @@ public class InnerTrainingTest1 {
 
     @AfterMethod
     public void tearDown() {
-      /*   if (driver != null) {
+         if (driver != null) {
             driver.quit();
-        }*/
+        }
     }
 
 }
